@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "612900938382",
+    "firebase_url": "https://rmutsvnodemcu-42a01.firebaseio.com",
+    "project_id": "rmutsvnodemcu-42a01",
+    "storage_bucket": "rmutsvnodemcu-42a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612900938382:android:2828fea747708a5d",
+        "android_client_info": {
+          "package_name": "pichetswn.rmutsv.ac.th.rmutsvmytimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612900938382-m4lkqgvs9gmqh9b2vhj1rv3a5njr3rr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pichetswn.rmutsv.ac.th.rmutsvmytimes",
+            "certificate_hash": "5b6946fbefe203d27dd4d002f86befa45c06c231"
+          }
+        },
+        {
+          "client_id": "612900938382-okhammrkl7i5n9nubvtpr45q0b0vkhj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6piLXAPgSQUkmrfQs-MTBUZvzbWIATeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612900938382-okhammrkl7i5n9nubvtpr45q0b0vkhj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612900938382:android:bdae56b09fcff710",
+        "android_client_info": {
+          "package_name": "pichetswn.rmutsv.ac.th.rmutsvmytimes2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612900938382-gtbmt62k09mj0ijg13cbp2uvmu3maj4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pichetswn.rmutsv.ac.th.rmutsvmytimes2",
+            "certificate_hash": "5b6946fbefe203d27dd4d002f86befa45c06c231"
+          }
+        },
+        {
+          "client_id": "612900938382-okhammrkl7i5n9nubvtpr45q0b0vkhj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6piLXAPgSQUkmrfQs-MTBUZvzbWIATeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612900938382-okhammrkl7i5n9nubvtpr45q0b0vkhj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
