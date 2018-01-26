@@ -3,6 +3,7 @@
     android:layout_width="match_parent" android:layout_height="match_parent">
 
     <TextView
+        android:id="@+id/txtTitle"
         android:textColor="@color/colorPrimaryDark"
         android:textStyle="bold"
         android:layout_centerHorizontal="true"
@@ -10,5 +11,14 @@
         android:text="Graph"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
+    <!--Graph-->
+    <com.jjoe64.graphview.GraphView
+        android:layout_margin="20dp"
+        android:id="@+id/graphViewMyData"
+        android:layout_below="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
 
 </RelativeLayout>
